@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kirub\\Desktop\\Digital Nurture 4.0-Samuel Kiruba\\FactoryMethodPatternExample\\FactoryMethodPatternExample.csproj",
+      "projectUniqueName": "C:\\Users\\kirub\\Desktop\\Digital-Nurture-4.0-Samuel-Kiruba\\FactoryMethodPatternExample\\FactoryMethodPatternExample.csproj",
       "projectName": "FactoryMethodPatternExample",
-      "projectPath": "C:\\Users\\kirub\\Desktop\\Digital Nurture 4.0-Samuel Kiruba\\FactoryMethodPatternExample\\FactoryMethodPatternExample.csproj",
+      "projectPath": "C:\\Users\\kirub\\Desktop\\Digital-Nurture-4.0-Samuel-Kiruba\\FactoryMethodPatternExample\\FactoryMethodPatternExample.csproj",
       "packagesPath": "C:\\Users\\kirub\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kirub\\Desktop\\Digital Nurture 4.0-Samuel Kiruba\\FactoryMethodPatternExample\\obj\\",
+      "outputPath": "C:\\Users\\kirub\\Desktop\\Digital-Nurture-4.0-Samuel-Kiruba\\FactoryMethodPatternExample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kirub\\AppData\\Roaming\\NuGet\\NuGet.Config"

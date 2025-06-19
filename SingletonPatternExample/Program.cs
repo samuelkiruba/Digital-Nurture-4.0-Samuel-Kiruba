@@ -22,6 +22,11 @@ namespace SingletonPatternExample
         static void Main(string[] args)
         {
             Logger logger1 = Logger.getInstance();
+            Logger logger2 = Logger.getInstance();
+            if (logger1 == logger2)
+            {
+                Console.WriteLine("Both logger1 and logger2 are the same instance. Therefore, the Singleton pattern is working correctly.");
+            }
         }
     }
 }

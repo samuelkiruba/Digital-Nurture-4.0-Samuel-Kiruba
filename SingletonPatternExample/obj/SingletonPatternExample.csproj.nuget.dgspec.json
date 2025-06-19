@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kirub\\Desktop\\Digital Nurture 4.0-Samuel Kiruba\\SingletonPatternExample\\SingletonPatternExample.csproj": {}
+    "C:\\Users\\kirub\\Desktop\\Digital-Nurture-4.0-Samuel-Kiruba\\SingletonPatternExample\\SingletonPatternExample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kirub\\Desktop\\Digital Nurture 4.0-Samuel Kiruba\\SingletonPatternExample\\SingletonPatternExample.csproj": {
+    "C:\\Users\\kirub\\Desktop\\Digital-Nurture-4.0-Samuel-Kiruba\\SingletonPatternExample\\SingletonPatternExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kirub\\Desktop\\Digital Nurture 4.0-Samuel Kiruba\\SingletonPatternExample\\SingletonPatternExample.csproj",
+        "projectUniqueName": "C:\\Users\\kirub\\Desktop\\Digital-Nurture-4.0-Samuel-Kiruba\\SingletonPatternExample\\SingletonPatternExample.csproj",
         "projectName": "SingletonPatternExample",
-        "projectPath": "C:\\Users\\kirub\\Desktop\\Digital Nurture 4.0-Samuel Kiruba\\SingletonPatternExample\\SingletonPatternExample.csproj",
+        "projectPath": "C:\\Users\\kirub\\Desktop\\Digital-Nurture-4.0-Samuel-Kiruba\\SingletonPatternExample\\SingletonPatternExample.csproj",
         "packagesPath": "C:\\Users\\kirub\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kirub\\Desktop\\Digital Nurture 4.0-Samuel Kiruba\\SingletonPatternExample\\obj\\",
+        "outputPath": "C:\\Users\\kirub\\Desktop\\Digital-Nurture-4.0-Samuel-Kiruba\\SingletonPatternExample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kirub\\AppData\\Roaming\\NuGet\\NuGet.Config"
