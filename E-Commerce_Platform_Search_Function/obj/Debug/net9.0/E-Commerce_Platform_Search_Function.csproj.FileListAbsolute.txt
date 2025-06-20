@@ -1,0 +1,15 @@
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\E-Commerce_Platform_Search_Function\bin\Debug\net9.0\E-Commerce_Platform_Search_Function.exe
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\E-Commerce_Platform_Search_Function\bin\Debug\net9.0\E-Commerce_Platform_Search_Function.deps.json
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\E-Commerce_Platform_Search_Function\bin\Debug\net9.0\E-Commerce_Platform_Search_Function.runtimeconfig.json
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\E-Commerce_Platform_Search_Function\bin\Debug\net9.0\E-Commerce_Platform_Search_Function.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\E-Commerce_Platform_Search_Function\bin\Debug\net9.0\E-Commerce_Platform_Search_Function.pdb
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\E-Commerce_Platform_Search_Function\obj\Debug\net9.0\E-Commerce_Platform_Search_Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\E-Commerce_Platform_Search_Function\obj\Debug\net9.0\E-Commerce_Platform_Search_Function.AssemblyInfoInputs.cache
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\E-Commerce_Platform_Search_Function\obj\Debug\net9.0\E-Commerce_Platform_Search_Function.AssemblyInfo.cs
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\E-Commerce_Platform_Search_Function\obj\Debug\net9.0\E-Commerce_Platform_Search_Function.csproj.CoreCompileInputs.cache
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\E-Commerce_Platform_Search_Function\obj\Debug\net9.0\E-Commerce_Platform_Search_Function.sourcelink.json
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\E-Commerce_Platform_Search_Function\obj\Debug\net9.0\E-Commerce_Platform_Search_Function.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\E-Commerce_Platform_Search_Function\obj\Debug\net9.0\refint\E-Commerce_Platform_Search_Function.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\E-Commerce_Platform_Search_Function\obj\Debug\net9.0\E-Commerce_Platform_Search_Function.pdb
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\E-Commerce_Platform_Search_Function\obj\Debug\net9.0\E-Commerce_Platform_Search_Function.genruntimeconfig.cache
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\E-Commerce_Platform_Search_Function\obj\Debug\net9.0\ref\E-Commerce_Platform_Search_Function.dll
