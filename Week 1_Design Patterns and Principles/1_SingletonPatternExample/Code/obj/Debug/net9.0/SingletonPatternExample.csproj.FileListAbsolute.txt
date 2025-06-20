@@ -1,0 +1,74 @@
+C:\Users\kirub\Desktop\Digital Nurture 4.0-Samuel Kiruba\SingletonPatternExample\bin\Debug\net9.0\SingletonPatternExample.exe
+C:\Users\kirub\Desktop\Digital Nurture 4.0-Samuel Kiruba\SingletonPatternExample\bin\Debug\net9.0\SingletonPatternExample.deps.json
+C:\Users\kirub\Desktop\Digital Nurture 4.0-Samuel Kiruba\SingletonPatternExample\bin\Debug\net9.0\SingletonPatternExample.runtimeconfig.json
+C:\Users\kirub\Desktop\Digital Nurture 4.0-Samuel Kiruba\SingletonPatternExample\bin\Debug\net9.0\SingletonPatternExample.dll
+C:\Users\kirub\Desktop\Digital Nurture 4.0-Samuel Kiruba\SingletonPatternExample\bin\Debug\net9.0\SingletonPatternExample.pdb
+C:\Users\kirub\Desktop\Digital Nurture 4.0-Samuel Kiruba\SingletonPatternExample\obj\Debug\net9.0\SingletonPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirub\Desktop\Digital Nurture 4.0-Samuel Kiruba\SingletonPatternExample\obj\Debug\net9.0\SingletonPatternExample.AssemblyInfoInputs.cache
+C:\Users\kirub\Desktop\Digital Nurture 4.0-Samuel Kiruba\SingletonPatternExample\obj\Debug\net9.0\SingletonPatternExample.AssemblyInfo.cs
+C:\Users\kirub\Desktop\Digital Nurture 4.0-Samuel Kiruba\SingletonPatternExample\obj\Debug\net9.0\SingletonPatternExample.csproj.CoreCompileInputs.cache
+C:\Users\kirub\Desktop\Digital Nurture 4.0-Samuel Kiruba\SingletonPatternExample\obj\Debug\net9.0\SingletonPatternExample.dll
+C:\Users\kirub\Desktop\Digital Nurture 4.0-Samuel Kiruba\SingletonPatternExample\obj\Debug\net9.0\refint\SingletonPatternExample.dll
+C:\Users\kirub\Desktop\Digital Nurture 4.0-Samuel Kiruba\SingletonPatternExample\obj\Debug\net9.0\SingletonPatternExample.pdb
+C:\Users\kirub\Desktop\Digital Nurture 4.0-Samuel Kiruba\SingletonPatternExample\obj\Debug\net9.0\SingletonPatternExample.genruntimeconfig.cache
+C:\Users\kirub\Desktop\Digital Nurture 4.0-Samuel Kiruba\SingletonPatternExample\obj\Debug\net9.0\ref\SingletonPatternExample.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\SingletonPatternExample\bin\Debug\net9.0\SingletonPatternExample.exe
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\SingletonPatternExample\bin\Debug\net9.0\SingletonPatternExample.deps.json
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\SingletonPatternExample\bin\Debug\net9.0\SingletonPatternExample.runtimeconfig.json
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\SingletonPatternExample\bin\Debug\net9.0\SingletonPatternExample.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\SingletonPatternExample\bin\Debug\net9.0\SingletonPatternExample.pdb
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\SingletonPatternExample\obj\Debug\net9.0\SingletonPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\SingletonPatternExample\obj\Debug\net9.0\SingletonPatternExample.AssemblyInfoInputs.cache
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\SingletonPatternExample\obj\Debug\net9.0\SingletonPatternExample.AssemblyInfo.cs
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\SingletonPatternExample\obj\Debug\net9.0\SingletonPatternExample.csproj.CoreCompileInputs.cache
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\SingletonPatternExample\obj\Debug\net9.0\SingletonPatternExample.sourcelink.json
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\SingletonPatternExample\obj\Debug\net9.0\SingletonPatternExample.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\SingletonPatternExample\obj\Debug\net9.0\refint\SingletonPatternExample.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\SingletonPatternExample\obj\Debug\net9.0\SingletonPatternExample.pdb
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\SingletonPatternExample\obj\Debug\net9.0\SingletonPatternExample.genruntimeconfig.cache
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\SingletonPatternExample\obj\Debug\net9.0\ref\SingletonPatternExample.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1\SingletonPatternExample\bin\Debug\net9.0\SingletonPatternExample.exe
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1\SingletonPatternExample\bin\Debug\net9.0\SingletonPatternExample.deps.json
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1\SingletonPatternExample\bin\Debug\net9.0\SingletonPatternExample.runtimeconfig.json
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1\SingletonPatternExample\bin\Debug\net9.0\SingletonPatternExample.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1\SingletonPatternExample\bin\Debug\net9.0\SingletonPatternExample.pdb
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1\SingletonPatternExample\obj\Debug\net9.0\SingletonPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1\SingletonPatternExample\obj\Debug\net9.0\SingletonPatternExample.AssemblyInfoInputs.cache
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1\SingletonPatternExample\obj\Debug\net9.0\SingletonPatternExample.AssemblyInfo.cs
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1\SingletonPatternExample\obj\Debug\net9.0\SingletonPatternExample.csproj.CoreCompileInputs.cache
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1\SingletonPatternExample\obj\Debug\net9.0\SingletonPatternExample.sourcelink.json
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1\SingletonPatternExample\obj\Debug\net9.0\SingletonPatternExample.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1\SingletonPatternExample\obj\Debug\net9.0\refint\SingletonPatternExample.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1\SingletonPatternExample\obj\Debug\net9.0\SingletonPatternExample.pdb
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1\SingletonPatternExample\obj\Debug\net9.0\SingletonPatternExample.genruntimeconfig.cache
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1\SingletonPatternExample\obj\Debug\net9.0\ref\SingletonPatternExample.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\Exercise 1_SingletonPatternExample\code\bin\Debug\net9.0\SingletonPatternExample.exe
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\Exercise 1_SingletonPatternExample\code\bin\Debug\net9.0\SingletonPatternExample.deps.json
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\Exercise 1_SingletonPatternExample\code\bin\Debug\net9.0\SingletonPatternExample.runtimeconfig.json
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\Exercise 1_SingletonPatternExample\code\bin\Debug\net9.0\SingletonPatternExample.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\Exercise 1_SingletonPatternExample\code\bin\Debug\net9.0\SingletonPatternExample.pdb
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\Exercise 1_SingletonPatternExample\code\obj\Debug\net9.0\SingletonPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\Exercise 1_SingletonPatternExample\code\obj\Debug\net9.0\SingletonPatternExample.AssemblyInfoInputs.cache
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\Exercise 1_SingletonPatternExample\code\obj\Debug\net9.0\SingletonPatternExample.AssemblyInfo.cs
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\Exercise 1_SingletonPatternExample\code\obj\Debug\net9.0\SingletonPatternExample.csproj.CoreCompileInputs.cache
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\Exercise 1_SingletonPatternExample\code\obj\Debug\net9.0\SingletonPatternExample.sourcelink.json
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\Exercise 1_SingletonPatternExample\code\obj\Debug\net9.0\SingletonPatternExample.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\Exercise 1_SingletonPatternExample\code\obj\Debug\net9.0\refint\SingletonPatternExample.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\Exercise 1_SingletonPatternExample\code\obj\Debug\net9.0\SingletonPatternExample.pdb
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\Exercise 1_SingletonPatternExample\code\obj\Debug\net9.0\SingletonPatternExample.genruntimeconfig.cache
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\Exercise 1_SingletonPatternExample\code\obj\Debug\net9.0\ref\SingletonPatternExample.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\1_SingletonPatternExample\code\bin\Debug\net9.0\SingletonPatternExample.exe
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\1_SingletonPatternExample\code\bin\Debug\net9.0\SingletonPatternExample.deps.json
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\1_SingletonPatternExample\code\bin\Debug\net9.0\SingletonPatternExample.runtimeconfig.json
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\1_SingletonPatternExample\code\bin\Debug\net9.0\SingletonPatternExample.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\1_SingletonPatternExample\code\bin\Debug\net9.0\SingletonPatternExample.pdb
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\1_SingletonPatternExample\code\obj\Debug\net9.0\SingletonPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\1_SingletonPatternExample\code\obj\Debug\net9.0\SingletonPatternExample.AssemblyInfoInputs.cache
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\1_SingletonPatternExample\code\obj\Debug\net9.0\SingletonPatternExample.AssemblyInfo.cs
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\1_SingletonPatternExample\code\obj\Debug\net9.0\SingletonPatternExample.csproj.CoreCompileInputs.cache
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\1_SingletonPatternExample\code\obj\Debug\net9.0\SingletonPatternExample.sourcelink.json
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\1_SingletonPatternExample\code\obj\Debug\net9.0\SingletonPatternExample.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\1_SingletonPatternExample\code\obj\Debug\net9.0\refint\SingletonPatternExample.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\1_SingletonPatternExample\code\obj\Debug\net9.0\SingletonPatternExample.pdb
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\1_SingletonPatternExample\code\obj\Debug\net9.0\SingletonPatternExample.genruntimeconfig.cache
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\1_SingletonPatternExample\code\obj\Debug\net9.0\ref\SingletonPatternExample.dll

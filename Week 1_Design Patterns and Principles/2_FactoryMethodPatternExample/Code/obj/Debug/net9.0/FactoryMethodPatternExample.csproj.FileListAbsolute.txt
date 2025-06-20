@@ -1,0 +1,74 @@
+C:\Users\kirub\Desktop\Digital Nurture 4.0-Samuel Kiruba\FactoryMethodPatternExample\bin\Debug\net9.0\FactoryMethodPatternExample.exe
+C:\Users\kirub\Desktop\Digital Nurture 4.0-Samuel Kiruba\FactoryMethodPatternExample\bin\Debug\net9.0\FactoryMethodPatternExample.deps.json
+C:\Users\kirub\Desktop\Digital Nurture 4.0-Samuel Kiruba\FactoryMethodPatternExample\bin\Debug\net9.0\FactoryMethodPatternExample.runtimeconfig.json
+C:\Users\kirub\Desktop\Digital Nurture 4.0-Samuel Kiruba\FactoryMethodPatternExample\bin\Debug\net9.0\FactoryMethodPatternExample.dll
+C:\Users\kirub\Desktop\Digital Nurture 4.0-Samuel Kiruba\FactoryMethodPatternExample\bin\Debug\net9.0\FactoryMethodPatternExample.pdb
+C:\Users\kirub\Desktop\Digital Nurture 4.0-Samuel Kiruba\FactoryMethodPatternExample\obj\Debug\net9.0\FactoryMethodPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirub\Desktop\Digital Nurture 4.0-Samuel Kiruba\FactoryMethodPatternExample\obj\Debug\net9.0\FactoryMethodPatternExample.AssemblyInfoInputs.cache
+C:\Users\kirub\Desktop\Digital Nurture 4.0-Samuel Kiruba\FactoryMethodPatternExample\obj\Debug\net9.0\FactoryMethodPatternExample.AssemblyInfo.cs
+C:\Users\kirub\Desktop\Digital Nurture 4.0-Samuel Kiruba\FactoryMethodPatternExample\obj\Debug\net9.0\FactoryMethodPatternExample.csproj.CoreCompileInputs.cache
+C:\Users\kirub\Desktop\Digital Nurture 4.0-Samuel Kiruba\FactoryMethodPatternExample\obj\Debug\net9.0\FactoryMethodPatternExample.dll
+C:\Users\kirub\Desktop\Digital Nurture 4.0-Samuel Kiruba\FactoryMethodPatternExample\obj\Debug\net9.0\refint\FactoryMethodPatternExample.dll
+C:\Users\kirub\Desktop\Digital Nurture 4.0-Samuel Kiruba\FactoryMethodPatternExample\obj\Debug\net9.0\FactoryMethodPatternExample.pdb
+C:\Users\kirub\Desktop\Digital Nurture 4.0-Samuel Kiruba\FactoryMethodPatternExample\obj\Debug\net9.0\FactoryMethodPatternExample.genruntimeconfig.cache
+C:\Users\kirub\Desktop\Digital Nurture 4.0-Samuel Kiruba\FactoryMethodPatternExample\obj\Debug\net9.0\ref\FactoryMethodPatternExample.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\FactoryMethodPatternExample\bin\Debug\net9.0\FactoryMethodPatternExample.exe
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\FactoryMethodPatternExample\bin\Debug\net9.0\FactoryMethodPatternExample.deps.json
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\FactoryMethodPatternExample\bin\Debug\net9.0\FactoryMethodPatternExample.runtimeconfig.json
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\FactoryMethodPatternExample\bin\Debug\net9.0\FactoryMethodPatternExample.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\FactoryMethodPatternExample\bin\Debug\net9.0\FactoryMethodPatternExample.pdb
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\FactoryMethodPatternExample\obj\Debug\net9.0\FactoryMethodPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\FactoryMethodPatternExample\obj\Debug\net9.0\FactoryMethodPatternExample.AssemblyInfoInputs.cache
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\FactoryMethodPatternExample\obj\Debug\net9.0\FactoryMethodPatternExample.AssemblyInfo.cs
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\FactoryMethodPatternExample\obj\Debug\net9.0\FactoryMethodPatternExample.csproj.CoreCompileInputs.cache
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\FactoryMethodPatternExample\obj\Debug\net9.0\FactoryMethodPatternExample.sourcelink.json
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\FactoryMethodPatternExample\obj\Debug\net9.0\FactoryMethodPatternExample.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\FactoryMethodPatternExample\obj\Debug\net9.0\refint\FactoryMethodPatternExample.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\FactoryMethodPatternExample\obj\Debug\net9.0\FactoryMethodPatternExample.pdb
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\FactoryMethodPatternExample\obj\Debug\net9.0\FactoryMethodPatternExample.genruntimeconfig.cache
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\FactoryMethodPatternExample\obj\Debug\net9.0\ref\FactoryMethodPatternExample.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1\FactoryMethodPatternExample\bin\Debug\net9.0\FactoryMethodPatternExample.exe
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1\FactoryMethodPatternExample\bin\Debug\net9.0\FactoryMethodPatternExample.deps.json
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1\FactoryMethodPatternExample\bin\Debug\net9.0\FactoryMethodPatternExample.runtimeconfig.json
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1\FactoryMethodPatternExample\bin\Debug\net9.0\FactoryMethodPatternExample.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1\FactoryMethodPatternExample\bin\Debug\net9.0\FactoryMethodPatternExample.pdb
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1\FactoryMethodPatternExample\obj\Debug\net9.0\FactoryMethodPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1\FactoryMethodPatternExample\obj\Debug\net9.0\FactoryMethodPatternExample.AssemblyInfoInputs.cache
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1\FactoryMethodPatternExample\obj\Debug\net9.0\FactoryMethodPatternExample.AssemblyInfo.cs
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1\FactoryMethodPatternExample\obj\Debug\net9.0\FactoryMethodPatternExample.csproj.CoreCompileInputs.cache
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1\FactoryMethodPatternExample\obj\Debug\net9.0\FactoryMethodPatternExample.sourcelink.json
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1\FactoryMethodPatternExample\obj\Debug\net9.0\FactoryMethodPatternExample.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1\FactoryMethodPatternExample\obj\Debug\net9.0\refint\FactoryMethodPatternExample.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1\FactoryMethodPatternExample\obj\Debug\net9.0\FactoryMethodPatternExample.pdb
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1\FactoryMethodPatternExample\obj\Debug\net9.0\FactoryMethodPatternExample.genruntimeconfig.cache
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1\FactoryMethodPatternExample\obj\Debug\net9.0\ref\FactoryMethodPatternExample.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\Exercise 2_FactoryMethodPatternExample\code\bin\Debug\net9.0\FactoryMethodPatternExample.exe
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\Exercise 2_FactoryMethodPatternExample\code\bin\Debug\net9.0\FactoryMethodPatternExample.deps.json
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\Exercise 2_FactoryMethodPatternExample\code\bin\Debug\net9.0\FactoryMethodPatternExample.runtimeconfig.json
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\Exercise 2_FactoryMethodPatternExample\code\bin\Debug\net9.0\FactoryMethodPatternExample.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\Exercise 2_FactoryMethodPatternExample\code\bin\Debug\net9.0\FactoryMethodPatternExample.pdb
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\Exercise 2_FactoryMethodPatternExample\code\obj\Debug\net9.0\FactoryMethodPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\Exercise 2_FactoryMethodPatternExample\code\obj\Debug\net9.0\FactoryMethodPatternExample.AssemblyInfoInputs.cache
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\Exercise 2_FactoryMethodPatternExample\code\obj\Debug\net9.0\FactoryMethodPatternExample.AssemblyInfo.cs
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\Exercise 2_FactoryMethodPatternExample\code\obj\Debug\net9.0\FactoryMethodPatternExample.csproj.CoreCompileInputs.cache
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\Exercise 2_FactoryMethodPatternExample\code\obj\Debug\net9.0\FactoryMethodPatternExample.sourcelink.json
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\Exercise 2_FactoryMethodPatternExample\code\obj\Debug\net9.0\FactoryMethodPatternExample.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\Exercise 2_FactoryMethodPatternExample\code\obj\Debug\net9.0\refint\FactoryMethodPatternExample.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\Exercise 2_FactoryMethodPatternExample\code\obj\Debug\net9.0\FactoryMethodPatternExample.pdb
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\Exercise 2_FactoryMethodPatternExample\code\obj\Debug\net9.0\FactoryMethodPatternExample.genruntimeconfig.cache
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\Exercise 2_FactoryMethodPatternExample\code\obj\Debug\net9.0\ref\FactoryMethodPatternExample.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\2_FactoryMethodPatternExample\code\bin\Debug\net9.0\FactoryMethodPatternExample.exe
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\2_FactoryMethodPatternExample\code\bin\Debug\net9.0\FactoryMethodPatternExample.deps.json
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\2_FactoryMethodPatternExample\code\bin\Debug\net9.0\FactoryMethodPatternExample.runtimeconfig.json
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\2_FactoryMethodPatternExample\code\bin\Debug\net9.0\FactoryMethodPatternExample.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\2_FactoryMethodPatternExample\code\bin\Debug\net9.0\FactoryMethodPatternExample.pdb
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\2_FactoryMethodPatternExample\code\obj\Debug\net9.0\FactoryMethodPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\2_FactoryMethodPatternExample\code\obj\Debug\net9.0\FactoryMethodPatternExample.AssemblyInfoInputs.cache
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\2_FactoryMethodPatternExample\code\obj\Debug\net9.0\FactoryMethodPatternExample.AssemblyInfo.cs
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\2_FactoryMethodPatternExample\code\obj\Debug\net9.0\FactoryMethodPatternExample.csproj.CoreCompileInputs.cache
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\2_FactoryMethodPatternExample\code\obj\Debug\net9.0\FactoryMethodPatternExample.sourcelink.json
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\2_FactoryMethodPatternExample\code\obj\Debug\net9.0\FactoryMethodPatternExample.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\2_FactoryMethodPatternExample\code\obj\Debug\net9.0\refint\FactoryMethodPatternExample.dll
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\2_FactoryMethodPatternExample\code\obj\Debug\net9.0\FactoryMethodPatternExample.pdb
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\2_FactoryMethodPatternExample\code\obj\Debug\net9.0\FactoryMethodPatternExample.genruntimeconfig.cache
+C:\Users\kirub\Desktop\Digital-Nurture-4.0-Samuel-Kiruba\Week 1_Design Patterns and Principles\2_FactoryMethodPatternExample\code\obj\Debug\net9.0\ref\FactoryMethodPatternExample.dll
