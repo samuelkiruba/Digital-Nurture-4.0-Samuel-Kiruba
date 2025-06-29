@@ -8,24 +8,31 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\kirub\\.nuget\\packages\\": {}
+    "C:\\Users\\kirub\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kirub\\Desktop\\Digital-Nurture-4.0-Samuel-Kiruba\\Week 1_Data Structures and Algorithms\\1_E-Commerce_Platform_Search_Function\\code\\E-Commerce_Platform_Search_Function.csproj",
+      "projectUniqueName": "C:\\Users\\kirub\\Desktop\\Digital-Nurture-4.0-Samuel-Kiruba\\Week 1_Data Structures and Algorithms\\1_E-Commerce_Platform_Search_Function\\Code\\E-Commerce_Platform_Search_Function.csproj",
       "projectName": "E-Commerce_Platform_Search_Function",
-      "projectPath": "C:\\Users\\kirub\\Desktop\\Digital-Nurture-4.0-Samuel-Kiruba\\Week 1_Data Structures and Algorithms\\1_E-Commerce_Platform_Search_Function\\code\\E-Commerce_Platform_Search_Function.csproj",
+      "projectPath": "C:\\Users\\kirub\\Desktop\\Digital-Nurture-4.0-Samuel-Kiruba\\Week 1_Data Structures and Algorithms\\1_E-Commerce_Platform_Search_Function\\Code\\E-Commerce_Platform_Search_Function.csproj",
       "packagesPath": "C:\\Users\\kirub\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kirub\\Desktop\\Digital-Nurture-4.0-Samuel-Kiruba\\Week 1_Data Structures and Algorithms\\1_E-Commerce_Platform_Search_Function\\code\\obj\\",
+      "outputPath": "C:\\Users\\kirub\\Desktop\\Digital-Nurture-4.0-Samuel-Kiruba\\Week 1_Data Structures and Algorithms\\1_E-Commerce_Platform_Search_Function\\Code\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\kirub\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\kirub\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
