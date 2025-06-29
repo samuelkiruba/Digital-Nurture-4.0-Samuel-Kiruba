@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kirub\\Desktop\\Digital-Nurture-4.0-Samuel-Kiruba\\Week 2_NUnit and Moq\\1_1.NUnit-handson\\CalcLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC124C9-5177-412C-846A-94E664A8FF24}|..\\Code\\Unit Test Project\\Unit Test Project.csproj|c:\\users\\kirub\\desktop\\digital-nurture-4.0-samuel-kiruba\\week 2_nunit and moq\\1_1.nunit-handson\\code\\unit test project\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9F0ABE-C280-4F84-8890-69F9E59BF84F}|CalcLibrary\\CalcLibrary.csproj|c:\\users\\kirub\\desktop\\digital-nurture-4.0-samuel-kiruba\\week 2_nunit and moq\\1_1.nunit-handson\\calclibrary\\calclibrary\\mathlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9F0ABE-C280-4F84-8890-69F9E59BF84F}|CalcLibrary\\CalcLibrary.csproj|solutionrelative:calclibrary\\mathlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MathLibrary.cs",
+              "DocumentMoniker": "C:\\Users\\kirub\\Desktop\\Digital-Nurture-4.0-Samuel-Kiruba\\Week 2_NUnit and Moq\\1_1.NUnit-handson\\CalcLibrary\\CalcLibrary\\MathLibrary.cs",
+              "RelativeDocumentMoniker": "CalcLibrary\\MathLibrary.cs",
+              "ToolTip": "C:\\Users\\kirub\\Desktop\\Digital-Nurture-4.0-Samuel-Kiruba\\Week 2_NUnit and Moq\\1_1.NUnit-handson\\CalcLibrary\\CalcLibrary\\MathLibrary.cs",
+              "RelativeToolTip": "CalcLibrary\\MathLibrary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T13:11:20.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\kirub\\Desktop\\Digital-Nurture-4.0-Samuel-Kiruba\\Week 2_NUnit and Moq\\1_1.NUnit-handson\\Code\\Unit Test Project\\CalculatorTests.cs",
+              "RelativeDocumentMoniker": "..\\Code\\Unit Test Project\\CalculatorTests.cs",
+              "ToolTip": "C:\\Users\\kirub\\Desktop\\Digital-Nurture-4.0-Samuel-Kiruba\\Week 2_NUnit and Moq\\1_1.NUnit-handson\\Code\\Unit Test Project\\CalculatorTests.cs",
+              "RelativeToolTip": "..\\Code\\Unit Test Project\\CalculatorTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T13:11:17.083Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
