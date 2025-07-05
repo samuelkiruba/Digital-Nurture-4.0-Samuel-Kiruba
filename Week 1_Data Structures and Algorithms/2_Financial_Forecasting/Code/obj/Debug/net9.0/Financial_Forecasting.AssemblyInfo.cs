@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Financial_Forecasting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd1eb02af3aad7bcefa212a2391020d66e58f141")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b96d7c4faaf81098c0864450cca64d1f80814b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Financial_Forecasting")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Financial_Forecasting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

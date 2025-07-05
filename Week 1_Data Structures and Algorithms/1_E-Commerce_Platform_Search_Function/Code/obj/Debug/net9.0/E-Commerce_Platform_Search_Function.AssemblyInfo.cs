@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("E-Commerce_Platform_Search_Function")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b96d7c4faaf81098c0864450cca64d1f80814b4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29ca21c95aae302f07d3eaad45b323e12b3e6e74")]
 [assembly: System.Reflection.AssemblyProductAttribute("E-Commerce_Platform_Search_Function")]
 [assembly: System.Reflection.AssemblyTitleAttribute("E-Commerce_Platform_Search_Function")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
